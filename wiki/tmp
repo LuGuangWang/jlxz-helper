@@ -1,0 +1,1 @@
+INSERT INTO llx.exam_question (paper_id, question_seq, question, question_img, question_type_id, question_type, question_answer, question_score) VALUES ('1', '2', '1', '1', '1', '1', '1', '2');
